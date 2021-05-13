@@ -12,12 +12,9 @@ In the .env file, place the store the api keys into their respective variables.
 
 ## Pictures:
 
-![commerce1](https://user-images.githubusercontent.com/69751991/118174616-ae512600-b44c-11eb-9878-bf7ceb2dfa3c.jpg)
 
-
-![commerce4](https://user-images.githubusercontent.com/69751991/118174655-be690580-b44c-11eb-8917-961071a32438.jpg)
-![commerce5](https://user-images.githubusercontent.com/69751991/118174679-c32db980-b44c-11eb-9b95-58bbdd7a9a75.jpg)
-![commerce6](https://user-images.githubusercontent.com/69751991/118174692-c628aa00-b44c-11eb-8ca5-9bc439c9d0da.jpg)
+![commerce1](https://user-images.githubusercontent.com/69751991/118178607-cbd4be80-b451-11eb-8437-5e658bd69591.jpg)
+![commerce2](https://user-images.githubusercontent.com/69751991/118178657-dee78e80-b451-11eb-8b02-1d9484d6cd88.jpg)
 
 
 
