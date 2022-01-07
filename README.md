@@ -1,6 +1,6 @@
 ## E-Commerce WebApp using commercejs.com
 
-An e-commerce web app made using commercejs, which helps Design, build, and control your eCommerce using our APIs and dashboard.
+An e-commerce web app made using commercejs, which helps Design, build, and control our eCommerce using their APIs and dashboard.
 
 
 ## Prerequisites 
